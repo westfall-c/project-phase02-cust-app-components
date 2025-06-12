@@ -1,7 +1,7 @@
 {
   "name": "phase02-cust-app",
   "version": "0.1.0",
-  "homepage": "https://westfall-c.github.io/cust-app-with-components/",
+  "homepage": "https://westfall-c.github.io/project-phase02-cust-app-components/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
